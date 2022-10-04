@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode-Exercises.iml" filepath="$PROJECT_DIR$/.idea/LeetCode-Exercises.iml" />
       <module fileurl="file://$PROJECT_DIR$/decryptIntegertoAlphabet/decryptIntegertoAlphabet.iml" filepath="$PROJECT_DIR$/decryptIntegertoAlphabet/decryptIntegertoAlphabet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divisorGame/divisorGame.iml" filepath="$PROJECT_DIR$/divisorGame/divisorGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodPairs/goodPairs.iml" filepath="$PROJECT_DIR$/goodPairs/goodPairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/happyNumbers/happyNumbers.iml" filepath="$PROJECT_DIR$/happyNumbers/happyNumbers.iml" />
