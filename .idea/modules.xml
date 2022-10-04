@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodPairs/goodPairs.iml" filepath="$PROJECT_DIR$/goodPairs/goodPairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/happyNumbers/happyNumbers.iml" filepath="$PROJECT_DIR$/happyNumbers/happyNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindromeNumber/palindromeNumber.iml" filepath="$PROJECT_DIR$/palindromeNumber/palindromeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/romanToInteger/romanToInteger.iml" filepath="$PROJECT_DIR$/romanToInteger/romanToInteger.iml" />
     </modules>
   </component>
