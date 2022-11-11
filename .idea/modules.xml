@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode-Exercises.iml" filepath="$PROJECT_DIR$/.idea/LeetCode-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunningSumOf1dArray/RunningSumOf1dArray.iml" filepath="$PROJECT_DIR$/RunningSumOf1dArray/RunningSumOf1dArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/decryptIntegertoAlphabet/decryptIntegertoAlphabet.iml" filepath="$PROJECT_DIR$/decryptIntegertoAlphabet/decryptIntegertoAlphabet.iml" />
       <module fileurl="file://$PROJECT_DIR$/divisorGame/divisorGame.iml" filepath="$PROJECT_DIR$/divisorGame/divisorGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/finalValueAfterOperations/finalValueAfterOperations.iml" filepath="$PROJECT_DIR$/finalValueAfterOperations/finalValueAfterOperations.iml" />
