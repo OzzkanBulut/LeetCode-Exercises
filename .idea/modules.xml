@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.iml" filepath="$PROJECT_DIR$/ClimbingStairs/ClimbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode-Exercises.iml" filepath="$PROJECT_DIR$/.idea/LeetCode-Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListAddTwoNumbers/LinkedListAddTwoNumbers.iml" filepath="$PROJECT_DIR$/LinkedListAddTwoNumbers/LinkedListAddTwoNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/RunningSumOf1dArray/RunningSumOf1dArray.iml" filepath="$PROJECT_DIR$/RunningSumOf1dArray/RunningSumOf1dArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/decryptIntegertoAlphabet/decryptIntegertoAlphabet.iml" filepath="$PROJECT_DIR$/decryptIntegertoAlphabet/decryptIntegertoAlphabet.iml" />
       <module fileurl="file://$PROJECT_DIR$/divisorGame/divisorGame.iml" filepath="$PROJECT_DIR$/divisorGame/divisorGame.iml" />
@@ -12,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodPairs/goodPairs.iml" filepath="$PROJECT_DIR$/goodPairs/goodPairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/happyNumbers/happyNumbers.iml" filepath="$PROJECT_DIR$/happyNumbers/happyNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/majorityElement/majorityElement.iml" filepath="$PROJECT_DIR$/majorityElement/majorityElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindromeNumber/palindromeNumber.iml" filepath="$PROJECT_DIR$/palindromeNumber/palindromeNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/removeElement/removeElement.iml" filepath="$PROJECT_DIR$/removeElement/removeElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/romanToInteger/romanToInteger.iml" filepath="$PROJECT_DIR$/romanToInteger/romanToInteger.iml" />
