@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" filepath="$PROJECT_DIR$/fizzBuzz/fizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodPairs/goodPairs.iml" filepath="$PROJECT_DIR$/goodPairs/goodPairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/happyNumbers/happyNumbers.iml" filepath="$PROJECT_DIR$/happyNumbers/happyNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lengthOfLastWord/lengthOfLastWord.iml" filepath="$PROJECT_DIR$/lengthOfLastWord/lengthOfLastWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/majorityElement/majorityElement.iml" filepath="$PROJECT_DIR$/majorityElement/majorityElement.iml" />
       <module fileurl="file://$PROJECT_DIR$/mergeSortedArray/mergeSortedArray.iml" filepath="$PROJECT_DIR$/mergeSortedArray/mergeSortedArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindromeNumber/palindromeNumber.iml" filepath="$PROJECT_DIR$/palindromeNumber/palindromeNumber.iml" />
