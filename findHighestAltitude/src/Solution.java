@@ -13,10 +13,6 @@ public class Solution {
                 sum = sum +i;
             }
         }
-        if(alt>sum){
-
-            return alt;
-        }else
-            return sum;
+        return alt>sum ? alt:sum;
     }
 }
